@@ -1,4 +1,6 @@
-
+@media screen and (max-width: 720px) {
+  /*CSS codes go here*/
+}
 *{
     margin: 0;
     padding: 0;
